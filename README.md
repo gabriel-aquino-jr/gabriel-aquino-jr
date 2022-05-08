@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabriel-aquino-jr , from Brazil, currently living in Canada
-- 👀 I’m interested in C#, JavaScript, CSS, OOP, SQL
-- 🌱 I’m currently learning C# OOP, JavaScript, SQL
+- 👀 I’m interested in C#, JavaScript, CSS, OOP, SQL, Flutter
+- 🌱 I’m currently learning C# OOP, JavaScript, SQL, Flutter
 - 💞️ I’m looking to collaborate on C# Libs, scripts
 - 📫 How to reach me ...
 
