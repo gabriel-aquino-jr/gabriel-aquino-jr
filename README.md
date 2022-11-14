@@ -1,4 +1,4 @@
-👋 Hi, I’m Gabriel, welcome to my GitHub
+### 👋 Hi there! I’m Gabriel, welcome to my GitHub
 
 <hr />
   <a href="mailto:aquino.coding@gmail.com">
