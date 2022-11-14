@@ -8,7 +8,8 @@
     <a href="https://www.linkedin.com/in/gabrielaquinojr/">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
   </a>
- <br/>
+<br/>
+<br/>
 ## About Me🚀
 
 👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter<br/>
