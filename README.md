@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @gabriel-aquino-jr , from Brazil, currently living in Canada
+👋 Hi, I’m Gabriel, welcome to my GitHub
+
+<hr />
+  <a href="mailto:aquino.coding@gmail.com">
+    <img align="left" width="26px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
 - 👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter
 - 🌱 I’m currently learning Java, Node, ASP.NET MVC, N-Tier Development
 - 💞️ I’m looking to collaborate on either back-end or front-end projects
