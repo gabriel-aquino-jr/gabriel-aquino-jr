@@ -10,7 +10,8 @@
   </a>
 <br/>
 <br/>
-## About Me🚀
+
+## 🚀 About Me
 
 👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter<br/>
 🌱 I’m currently learning Java, Node, ASP.NET MVC, N-Tier Development<br/>
