@@ -23,7 +23,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aquino-jr&layout=compact&langs_count=7&&theme=gradient" height="180em">
 </div> 
 
-## 💖 Technologies I love an use
+## 💖 Technologies I love and use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
