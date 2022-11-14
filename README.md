@@ -19,7 +19,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=gabriel-aquino-jr&show_icons=true&theme=gradient&include_all_commits=true&count-private=false" height="180em">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aquino-jr&layout=compact&langs_count=7&&theme=gradient" height="180em">
 </div> 
- 
+
 
 <!---
 gabriel-aquino-jr/gabriel-aquino-jr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
