@@ -16,9 +16,9 @@
 📫 You can reach me on my linkein profile in my Bio<br/>
 <div align="center">
         <a href="https://github.com/gabriel-aquino-jr"></a>
-        <img src="http://github-readme-stats.vercel.app/api?
+        <img src="https://github-readme-stats.vercel.app/api?
         username=gabriel-aquino-jr&show_icons=true&theme=gradient&include_all_commits=true&count-private=true" height="180em">
-        <img src="http://github-readme-stats.vercel.app/api/top-langs/?
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?
         username=gabriel-aquino-jr&layout=compact&langs_count=7&&theme=gradient" height="180em">
 </div> 
  
