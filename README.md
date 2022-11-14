@@ -8,10 +8,8 @@
     <a href="https://www.linkedin.com/in/gabrielaquinojr/">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
   </a>
-<br/>
-<br/>
+ <br/>
 <hr />
-
 👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter<br/>
 🌱 I’m currently learning Java, Node, ASP.NET MVC, N-Tier Development<br/>
 💞️ I’m looking to collaborate on either back-end or front-end projects<br/>
