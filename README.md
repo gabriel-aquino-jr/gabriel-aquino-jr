@@ -27,7 +27,7 @@
 ## 💖 Technologies I love and use
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://camo.githubusercontent.com/7e487e1d75105e11fb8f8aaa1701d7cad419dc28a8d7b963b99c8121eaee363d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323053484152502d707572706c653f6c6f676f3d637368617270266c6f676f436f6c6f723d7768697465267374796c653d706c6173746963" />
+  <img align="center" alt="js"  src="https://camo.githubusercontent.com/7e487e1d75105e11fb8f8aaa1701d7cad419dc28a8d7b963b99c8121eaee363d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323053484152502d707572706c653f6c6f676f3d637368617270266c6f676f436f6c6f723d7768697465267374796c653d706c6173746963" />
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
