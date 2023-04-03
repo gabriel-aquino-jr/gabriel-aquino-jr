@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter<br/>
-🌱 I’m currently learning Java, Node, ASP.NET MVC, N-Tier Development<br/>
+👀 I’m interested in C#, JavaScript, Node, Java, OOP, SQL, Flutter, Kotlin and Swift<br/>
+🌱 I’m currently learning Java, Java Spring Boot, Node, ASP.NET MVC, N-Tier Development, Kotlin and Swift<br/>
 💞️ I’m looking to collaborate on either back-end or front-end projects<br/>
-📫 You can reach me on my linkein profile in my Bio<br/>
+📫 You can reach me on my LinkedIn profile in my Bio<br/>
 <br/>
 <div align="center">
         <a href="https://github.com/gabriel-aquino-jr"></a>
